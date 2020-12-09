@@ -151,7 +151,7 @@ body{
 	border: 1px solid rgba(0,0,0,0.6);
 }
 .submit:hover{
-	background-color: white;
+	background-color: #fff;
 	color:#4f33f1;
 	transition: 0.2s;
 	cursor: pointer;
@@ -268,7 +268,7 @@ body{
 	height:360px;
 	border-radius: 10px;
 	box-shadow: 10px 10px 7px 0px rgba(51,22,51,0.92);
-	border: 2px solid black;
+	border: 2px solid #000;
 }
 .blok:hover{
 	transform: scale(1.1);
@@ -546,7 +546,7 @@ footer{
 }
 footer ul li a{
 	list-style: none;
-	color:white;
+	color:#fff;
 	text-decoration: none;
 }
 .copyright{
@@ -583,7 +583,7 @@ footer ul li a{
 }
 .footer-menu ul li{
 	display: inline-block;
-	border-bottom: 2px dotted white;
+	border-bottom: 2px dotted #fff;
 	font-size: 25px;
 	margin-left: 15px;
 	margin-right: 15px;
@@ -720,7 +720,7 @@ textarea{
 	margin-top: 20px;
 	margin-bottom: 40px;
 	margin-right: 10px;
-	animation-name: image;
+	animation: image;
 	animation-duration: 3s;
 	animation-fill-mode: forwards;
 	position: relative;
@@ -737,7 +737,7 @@ textarea{
 	margin-top: 20px;
 	margin-bottom: 40px;
 	padding: 15px;
-	animation-name: content;
+	animation: content;
 	animation-duration: 3s;
 	animation-fill-mode: forwards;
 	position: relative;
@@ -764,7 +764,7 @@ textarea{
 	border-radius: 15px;
 	box-shadow: 10px 10px 7px 0px rgba(51,22,51,0.92);
 	padding: 50px;
-	animation-name: heading;
+	animation: heading;
 	animation-duration: 3s;
 	animation-fill-mode: forwards;
 	position: relative;
@@ -800,7 +800,7 @@ textarea{
 	margin-bottom: 150px;
 	padding: 34px;
 	width: 17%;
-	animation-name: shop;
+	animation: shop;
 	animation-duration: 3s;
 	animation-fill-mode: forwards;
 	position: relative;
