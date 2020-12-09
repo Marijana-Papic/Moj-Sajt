@@ -637,7 +637,7 @@ textarea{
 	display: block;
 	background: #9b59b6;
 	padding: 14px 0;
-	color: white;
+	color: #fff;
 	text-transform: uppercase;
 	cursor: pointer;
 	margin-top: 8px;
@@ -658,6 +658,10 @@ textarea{
 	text-align: center;
 	font-size: 50px;
 	text-transform: uppercase;
+	animation:heading;
+	animation-duration: 3s;
+	animation-fill-mode: forwards;
+	position: relative;
 }
 .my-pic img{
 	width: 89%;
@@ -665,6 +669,10 @@ textarea{
 	float: left;
 	border-radius: 15px;
 	box-shadow: 10px 10px 7px 0px rgba(51,22,51,0.92);
+	animation:image;
+	animation-duration: 3s;
+	animation-fill-mode: forwards;
+	position: relative;
 }
 
 .biography p{
@@ -678,6 +686,10 @@ textarea{
 	background-color: rgba(0,0,0,0.5);
 	box-shadow: 10px 10px 7px 0px rgba(51,22,51,0.92);
 	border-radius: 10px;
+	animation:content;
+	animation-duration: 3s;
+	animation-fill-mode: forwards;
+	position: relative;
 }
 				/*Workers stranica*/
 
@@ -692,6 +704,14 @@ textarea{
 	text-align: center;
 	font-size: 50px;
 	text-transform: uppercase;
+	animation:heading;
+	animation-duration: 3s;
+	animation-fill-mode: forwards;
+	position: relative;
+}
+@keyframes heading {
+	0% {top:-600px;}
+	100%{top:0px;}
 }
 .worker-pic img{
 	width:282px;
@@ -700,8 +720,14 @@ textarea{
 	margin-top: 20px;
 	margin-bottom: 40px;
 	margin-right: 10px;
-
-
+	animation-name: image;
+	animation-duration: 3s;
+	animation-fill-mode: forwards;
+	position: relative;
+}
+@keyframes image {
+		0% {left:-1000px;}
+		100%{left:0px;}
 }
 .worker-biography{
 	width: 50%;
@@ -711,6 +737,14 @@ textarea{
 	margin-top: 20px;
 	margin-bottom: 40px;
 	padding: 15px;
+	animation-name: content;
+	animation-duration: 3s;
+	animation-fill-mode: forwards;
+	position: relative;
+}
+@keyframes content {
+	0% {right:-1000px;}
+	100%{right:0px;}
 }
 .worker-biography p{
 	text-align: left;
@@ -730,6 +764,10 @@ textarea{
 	border-radius: 15px;
 	box-shadow: 10px 10px 7px 0px rgba(51,22,51,0.92);
 	padding: 50px;
+	animation-name: heading;
+	animation-duration: 3s;
+	animation-fill-mode: forwards;
+	position: relative;
 }
 .pricing-section h2{
 	margin: 20px 0;
@@ -762,6 +800,14 @@ textarea{
 	margin-bottom: 150px;
 	padding: 34px;
 	width: 17%;
+	animation-name: shop;
+	animation-duration: 3s;
+	animation-fill-mode: forwards;
+	position: relative;
+}
+@keyframes shop {
+	0% {bottom:-600px;}
+	100%{bottom:0px;}
 }
 .pricing-item:hover{
 	background-color:#4c007b;
