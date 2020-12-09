@@ -1,17 +1,17 @@
 <rss version="2.0">
     <channel>
-        <title>Montana - vesti</title>
-        <link>https://mihailoilic.github.io/mihailo/</link>
-        <description>Montana Invest - Na pravom ste mestu!</description>
+        <title>FIRWL - news</title>
+        <link>https://janko-stojkovic.github.io/jankostojkovic.github.io/</link>
+        <description>FIRWL Cyber Security- Protect Your PC the best way possible</description>
         <item>
-            <title>Ko smo mi?</title>
-            <link>https://mihailoilic.github.io/mihailo/about.html</link>
-            <description>Informišite se bolje o nama. Uvek je važno je znati ko je na vašoj strani.</description>
+            <title>Our Employees</title>
+            <link>https://janko-stojkovic.github.io/jankostojkovic.github.io/pages/workers.html</link>
+            <description>Read about our employees and learn more about the people who work on securing your PC </description>
         </item>
         <item>
-            <title>Naša galerija</title>
-            <link>https://mihailoilic.github.io/mihailo/gallery.html</link>
-            <description>Pogledajte našu galeriju što pre! Delić inspiracije nikome ne bi škodio.</description>
+            <title>Shop</title>
+            <link>https://janko-stojkovic.github.io/jankostojkovic.github.io/pages/shop.html</link>
+            <description>Be aware of our prices and promotions</description>
         </item>
     </channel>
 </rss>
