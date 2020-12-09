@@ -1,31 +1,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://janko-stojkovic.github.io/jankostojkovic.github.io/index.html</loc>
-        <lastmod>20120-12-09</lastmod>
+        <lastmod>2020-12-09</lastmod>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
     <url>
         <loc>https://janko-stojkovic.github.io/jankostojkovic.github.io/pages/about.html</loc>
-        <lastmod>2020-12-07</lastmod>
+        <lastmod>2020-12-09</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.4</priority>
     </url>
     <url>
         <loc>https://janko-stojkovic.github.io/jankostojkovic.github.io/pages/workers.html</loc>
-        <lastmod>2020-12-07</lastmod>
+        <lastmod>2020-12-09</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://janko-stojkovic.github.io/jankostojkovic.github.io/pages/shop.html</loc>
-        <lastmod>2020-12-08</lastmod>
+        <lastmod>2020-12-09</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://janko-stojkovic.github.io/jankostojkovic.github.io/pages/contact.html</loc>
-        <lastmod>2020-12-06</lastmod>
+        <lastmod>2020-12-09</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.4</priority>
     </url>
