@@ -743,7 +743,7 @@ textarea{
 	position: relative;
 }
 @keyframes content {
-	0% {right:-1000px;}
+	0% {right:-1500px;}
 	100%{right:0px;}
 }
 .worker-biography p{
