@@ -659,7 +659,7 @@ textarea{
 	font-size: 50px;
 	text-transform: uppercase;
 	animation:heading;
-	animation-duration: 3s;
+	animation-duration: 1s;
 	animation-fill-mode: forwards;
 	position: relative;
 }
@@ -670,7 +670,7 @@ textarea{
 	border-radius: 15px;
 	box-shadow: 10px 10px 7px 0px rgba(51,22,51,0.92);
 	animation:image;
-	animation-duration: 3s;
+	animation-duration: 1s;
 	animation-fill-mode: forwards;
 	position: relative;
 }
@@ -687,7 +687,7 @@ textarea{
 	box-shadow: 10px 10px 7px 0px rgba(51,22,51,0.92);
 	border-radius: 10px;
 	animation:content;
-	animation-duration: 3s;
+	animation-duration: 1s;
 	animation-fill-mode: forwards;
 	position: relative;
 }
@@ -705,7 +705,7 @@ textarea{
 	font-size: 50px;
 	text-transform: uppercase;
 	animation:heading;
-	animation-duration: 3s;
+	animation-duration: 1s;
 	animation-fill-mode: forwards;
 	position: relative;
 }
@@ -721,7 +721,7 @@ textarea{
 	margin-bottom: 40px;
 	margin-right: 10px;
 	animation: image;
-	animation-duration: 3s;
+	animation-duration: 1s;
 	animation-fill-mode: forwards;
 	position: relative;
 }
@@ -738,7 +738,7 @@ textarea{
 	margin-bottom: 40px;
 	padding: 15px;
 	animation: content;
-	animation-duration: 3s;
+	animation-duration: 1s;
 	animation-fill-mode: forwards;
 	position: relative;
 }
@@ -765,7 +765,7 @@ textarea{
 	box-shadow: 10px 10px 7px 0px rgba(51,22,51,0.92);
 	padding: 50px;
 	animation: heading;
-	animation-duration: 3s;
+	animation-duration: 1s;
 	animation-fill-mode: forwards;
 	position: relative;
 }
@@ -801,7 +801,7 @@ textarea{
 	padding: 34px;
 	width: 17%;
 	animation: shop;
-	animation-duration: 3s;
+	animation-duration: 1s;
 	animation-fill-mode: forwards;
 	position: relative;
 }
